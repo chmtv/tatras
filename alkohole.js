@@ -1,8 +1,8 @@
 // Nie wszystko to piwa ale co z tego
 let piwa = [
     {
-        part: "Har",
-        part2: "naś",
+        part: "Harn",
+        part2: "aś",
         piwo: "Harnaś"
     }, 
     {
@@ -26,8 +26,8 @@ let piwa = [
         piwo: "Żywiec"
     },
     {
-        part: "Tat",
-        part2: "ra",
+        part: "Tatr",
+        part2: "a",
         piwo: "Tatra"
     },
     {
